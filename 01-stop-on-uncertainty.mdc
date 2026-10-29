@@ -1,0 +1,12 @@
+---
+description: Stop when a fact is missing or must be assumed
+alwaysApply: true
+---
+
+# Stop on uncertainty
+
+- If you lack a sourced fact, or you must choose between valid alternatives: stop, ask, do not implement.
+- A source is the versioned inventory, a diagram label checked against a live read, or a human statement that cites one of those. "Probably" and a textbook example are not sources.
+- Do not invent hosts, addresses, port roles, segment membership, interface names, or libraries.
+- Stop when the diagram and a live read disagree. Do not script the diagram label until the conflict is resolved.
+- Trigger already seen: two port-role labels were swapped, and the next change followed the drawing. Check the live port table before a change that depends on a label.
