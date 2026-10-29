@@ -1,6 +1,6 @@
 # deterministic-ai-engineering-teaser
 
-A coding agent will fill a gap instead of asking. This repo shows one real miss, the shape of the build around it, and the one rule that file is allowed to contain.
+A coding agent will fill a gap instead of asking. This repo shows one real miss, the shape of the build around it, and the one rule it is allowed to contain.
 
 Longer prompts did not fix that. A rule that survives the next chat did.
 
@@ -20,12 +20,10 @@ A flat LAN, one gateway for trusted devices, IoT, and guests. Afterward: three s
 
 Detail: [proof/before-after.md](proof/before-after.md).
 
-Case study: https://robertbauerwukitsevits.substack.com/
+Newsletter: https://robertbauerwukitsevits.substack.com/
 
 ## What is not in this repo
 
-The drop-in set is the paid kit: `CLAUDE.md`, the other four rules, and two short guides. This repo does not ship them, and it is not a dump of a private network.
+The drop-in set is the paid kit: `CLAUDE.md`, the other four rules, and two short guides. This repo does not ship them, and it is not a dump of a private network. There is no shop link until that kit is actually on sale.
 
 Async product only. No consulting calls.
-
-Full kit: [Lemon Squeezy URL]
