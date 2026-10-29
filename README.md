@@ -12,7 +12,7 @@ That miss is written out in [proof/port-labels.md](proof/port-labels.md). The ru
 
 [.cursor/rules/01-stop-on-uncertainty.mdc](.cursor/rules/01-stop-on-uncertainty.mdc)
 
-Copy that file into another project's `.cursor/rules/` if you want the same stop.
+[CLAUDE.md](CLAUDE.md) is the same stop, for tools that read that file. It sets a diagram path and an inventory path, then tells the agent to halt when a fact is missing. Copy the rule into another project's `.cursor/rules/` and `CLAUDE.md` to that project's root if you want the same stop.
 
 ## What the build looked like
 
@@ -24,6 +24,6 @@ Newsletter: https://robertbauerwukitsevits.substack.com/
 
 ## What is not in this repo
 
-The drop-in set is the paid kit: `CLAUDE.md`, the other four rules, and two short guides. This repo does not ship them, and it is not a dump of a private network. There is no shop link until that kit is actually on sale.
+The paid kit holds the other four rules, the full doctrine file, and two short guides. This repo does not ship them, and it is not a dump of a private network. There is no shop link until that kit is actually on sale.
 
 Async product only. No consulting calls.
